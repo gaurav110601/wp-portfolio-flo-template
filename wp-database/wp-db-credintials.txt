@@ -1,0 +1,4 @@
+db name - 'myportfolio'
+host - 'localhost'
+username - 'root'
+password - ''
