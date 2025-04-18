@@ -47,9 +47,6 @@ This is my Personal Portfolio Website built using WordPress and the Arrival Me t
 3. Import the database if included (usually via .sql file or via WordPress Export/Import tools).
 4. Configure the wp-config.php with your local DB settings.
 5. Access the site at http://localhost/portfolio-website.
-#### Credintials
-userename: admin <br>
-password: gaurav116 <br>
 
 ##### OR
 
@@ -61,15 +58,23 @@ password: gaurav116 <br>
 3. download and install all-in-one wpmigration unlimited extention latest version through third party website
 4. import your project (.wpress) file through all-in-one wpmigration
    a. if you got upolad limit error then get commands from internet and maximise upload size through htaccess file
-#### Credintials
+
+
+<br><br>
+<!-- ................................................................................................................................. -->
+<!-- ................................................................................................................................. -->
+
+### Credintials
+userename: admin <br>
+password: gaurav116 <br>
 host: localhost <br>
 username: root <br>
 password: '' [Empty string] <br>
 DB: myPortfolio
 
 
+
 <br><br>
-<!-- ................................................................................................................................. -->
 <!-- ................................................................................................................................. -->
 
 
