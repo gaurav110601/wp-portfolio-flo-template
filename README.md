@@ -80,8 +80,12 @@ DB: myPortfolio
 
 ### Sample Snapshots
 
-Website:
-will be uploaded soon
+Homepage:
+![image](https://github.com/user-attachments/assets/026a0800-9175-4923-8973-569b0c67a61b)
+
+About Page: 
+
+
 
 Admin:
 will be uploaded soon
