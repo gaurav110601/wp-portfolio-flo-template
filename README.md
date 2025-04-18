@@ -81,22 +81,22 @@ DB: myPortfolio
 ### Sample Snapshots
 
 Homepage:
-![image](https://github.com/user-attachments/assets/026a0800-9175-4923-8973-569b0c67a61b) <br><br>
+![image](https://github.com/user-attachments/assets/026a0800-9175-4923-8973-569b0c67a61b) <br><br><br><br>
 
 About Page: 
-![image](https://github.com/user-attachments/assets/cd2fea47-80bf-493c-b961-01c4da6f5a7d) <br><br>
+![image](https://github.com/user-attachments/assets/cd2fea47-80bf-493c-b961-01c4da6f5a7d) <br><br><br><br>
 
 Portfolio:
-![image](https://github.com/user-attachments/assets/5f751643-7752-44b1-8a19-f1d5bb9ae90d) <br><br>
+![image](https://github.com/user-attachments/assets/5f751643-7752-44b1-8a19-f1d5bb9ae90d) <br><br><br><br>
 
 Acheivements:
-![image](https://github.com/user-attachments/assets/9482c121-7515-4f78-ad50-0ebd2193d791) <br><br>
+![image](https://github.com/user-attachments/assets/9482c121-7515-4f78-ad50-0ebd2193d791) <br><br><br><br>
 
 Activity/Blog: 
-![image](https://github.com/user-attachments/assets/65563c35-7e57-4f1e-83d8-4e83a268c72e) <br><br>
+![image](https://github.com/user-attachments/assets/65563c35-7e57-4f1e-83d8-4e83a268c72e) <br><br><br><br>
 
 Contact:
-![image](https://github.com/user-attachments/assets/61e66d03-b092-43cb-800f-b0f79c26a211) <br><br>
+![image](https://github.com/user-attachments/assets/61e66d03-b092-43cb-800f-b0f79c26a211) <br><br><br><br>
 
 
 Admin:
