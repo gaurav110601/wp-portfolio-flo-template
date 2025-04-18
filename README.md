@@ -1,4 +1,4 @@
-<h1 align="center">
+![image](https://github.com/user-attachments/assets/94c898ae-7a6c-4d8f-8599-fb4d900228c8)<h1 align="center">
   WordPress Portfolio Website (Multiple Pages)
 </h1>
 
@@ -84,6 +84,14 @@ Homepage:
 ![image](https://github.com/user-attachments/assets/026a0800-9175-4923-8973-569b0c67a61b)
 
 About Page: 
+![image](https://github.com/user-attachments/assets/cd2fea47-80bf-493c-b961-01c4da6f5a7d)
+
+Portfolio:
+![image](https://github.com/user-attachments/assets/5f751643-7752-44b1-8a19-f1d5bb9ae90d)
+
+Acheivements:
+
+
 
 
 
