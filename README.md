@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8aa75039-641f-44f5-b853-96fbf4e09ee2)![image](https://github.com/user-attachments/assets/94c898ae-7a6c-4d8f-8599-fb4d900228c8)<h1 align="center">
+<h1 align="center">
   WordPress Portfolio Website (Multiple Pages)
 </h1>
 
