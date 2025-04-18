@@ -1,5 +1,5 @@
 <h1 align="center">
-  WordPress Portfolio Website - Flo Theme
+  WordPress Portfolio Website (Multiple Pages)
 </h1>
 
 
