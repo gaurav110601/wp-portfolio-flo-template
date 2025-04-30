@@ -14,7 +14,7 @@ This is my Personal Portfolio Website built using WordPress and the Arrival Me t
 <br>
 
 - WordPress
-- Flo Theme – A stylish and creative template perfect for personal branding
+- Flo Theme – (https://themeforest.net/item/flo-creative-portfolio-resume-template-kit/26423130?srsltid=AfmBOoqbpwLUbNFDqmGrKJFmzh9-daxuQpuknRKsfS2MW1Qqg4wnZ4Vp)
 - Elementor Pro, WPForms etc. plugins
 - MySQL DataBase
 
