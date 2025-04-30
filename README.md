@@ -39,21 +39,7 @@ This is my Personal Portfolio Website built using WordPress and the Arrival Me t
 <!-- ................................................................................................................................. -->
 
 
-### Setup Instructions #1
-<br>
-
-1. Clone this repository
-2. Set up a local WordPress installation and copy wp-code files into the htdocs or equivalent directory.
-3. Import the database if included (usually via .sql file or via WordPress Export/Import tools).
-4. Configure the wp-config.php with your local DB settings.
-5. Access the site at http://localhost/portfolio-website. <br>
-Note: If redirection links not working properly like on hiting about page shows 404 page not found then copy project name from url and rename your current project name to this, e.g. localhost/myportfolio/about then rename portfolio-website to myportfolio
-
-##### OR
-
-### Setup Instructions #2
-<br>
-
+### Setup Instructions 
 1. download wordpress, install and setup through phpMyAdmin
 2. install plugin all-in-one wpmigration 
 3. download and install all-in-one wpmigration unlimited extention latest version through third party website
