@@ -1,5 +1,0 @@
-1) download wordpress, install and setup through phpMyAdmin
-2) install plugin all-in-one wpmigration 
-3) download and install all-in-one wpmigration unlimited extention latest version through third party website
-4) import your project (.wpress) file through all-in-one wpmigration
-	a) if you got upolad limit error then get commands from internet and maximise upload size through htaccess file
